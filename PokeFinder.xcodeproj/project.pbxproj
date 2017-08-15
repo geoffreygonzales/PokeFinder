@@ -14,6 +14,7 @@
 		8FEE00531F43A8ED0028B608 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FEE00511F43A8ED0028B608 /* LaunchScreen.storyboard */; };
 		8FEE005E1F43A8ED0028B608 /* PokeFinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEE005D1F43A8ED0028B608 /* PokeFinderTests.swift */; };
 		8FEE00691F43A8ED0028B608 /* PokeFinderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEE00681F43A8ED0028B608 /* PokeFinderUITests.swift */; };
+		8FEE00771F43A90E0028B608 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8FEE00761F43A90E0028B608 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8FEE00641F43A8ED0028B608 /* PokeFinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokeFinderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FEE00681F43A8ED0028B608 /* PokeFinderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeFinderUITests.swift; sourceTree = "<group>"; };
 		8FEE006A1F43A8ED0028B608 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8FEE00761F43A90E0028B608 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8FEE004F1F43A8ED0028B608 /* Assets.xcassets */,
 				8FEE00511F43A8ED0028B608 /* LaunchScreen.storyboard */,
 				8FEE00541F43A8ED0028B608 /* Info.plist */,
+				8FEE00761F43A90E0028B608 /* GoogleService-Info.plist */,
 			);
 			path = PokeFinder;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FEE00531F43A8ED0028B608 /* LaunchScreen.storyboard in Resources */,
+				8FEE00771F43A90E0028B608 /* GoogleService-Info.plist in Resources */,
 				8FEE00501F43A8ED0028B608 /* Assets.xcassets in Resources */,
 				8FEE004E1F43A8ED0028B608 /* Main.storyboard in Resources */,
 			);
